@@ -1,3 +1,3 @@
 # RepasoProgramacion
-OJBJETIVO 
+OBJETIVO 
 Crear el juego de la vida
