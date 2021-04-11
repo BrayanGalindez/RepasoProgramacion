@@ -1,0 +1,4 @@
+1. El juego esta en lenguaje Python, por lo cual se debera ejecutar a traves de una IDE de Python.
+2. Se debera descargar las librerias de pygame y numpy, con los comandos ya sea en la consola del IDE donde se ejecute el codigo o en cmd.
+3. Se ejecuta el codigo, con el click izquierdo se podra colorear de blanco cada cuadro y con el click derrecho borrar, con espacio se podra pausar el juego, y tambien reproducir.
+4. Para salir del juego, se debe parar el codigo.
